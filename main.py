@@ -2,6 +2,7 @@ import os
 import sys
 import pandas as pd
 
+
 ARQUIVO = "vendas_mercado_basico.xlsx"
 
 
